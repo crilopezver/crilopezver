@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**crilopezver/crilopezver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Cristhian — Data Analyst / BI Jr.
 
-Here are some ideas to get you started:
+I turn data into decisions: SQL • Python (pandas) • Power BI • Cohorts/Funnels • A/B Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Focus: reliable dashboards + automated reporting
+- 📚 Bootcamp: TripleTen (Data Analyst, 2024–2025)
+- 📫 Contact: crilopezve@gmail.com | linkedin.com/in/crilopezver
+
+## Projects
+- SQL for Analytics (orders & timings) — window functions/CTEs → Power BI dashboard
+- User Funnel & Retention — DAU/WAU/MAU, cohorts, bottleneck analysis
+- A/B Testing for Conversion — Welch t-test / chi-square, executive report
+
+## Stack
+SQL · Python (pandas, numpy, matplotlib, seaborn) · Power BI · Tableau · Looker Studio · Git/GitHub · Excel/Sheets
+
